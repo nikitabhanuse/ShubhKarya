@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhKarya", "ShubhKarya\ShubhKarya.csproj", "{6C576A14-83BB-4009-AB80-0A3A442E6B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shubhkarya.Data", "Shubhkarya.Data\Shubhkarya.Data.csproj", "{E8118A3E-DD40-4ABE-B58B-64016AFA02E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C576A14-83BB-4009-AB80-0A3A442E6B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C576A14-83BB-4009-AB80-0A3A442E6B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C576A14-83BB-4009-AB80-0A3A442E6B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C576A14-83BB-4009-AB80-0A3A442E6B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8118A3E-DD40-4ABE-B58B-64016AFA02E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8118A3E-DD40-4ABE-B58B-64016AFA02E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8118A3E-DD40-4ABE-B58B-64016AFA02E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8118A3E-DD40-4ABE-B58B-64016AFA02E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E27B426-8AB9-427D-BCB5-8A4CDF0F998B}
+	EndGlobalSection
+EndGlobal
